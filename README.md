@@ -1,2 +1,2 @@
-# weatherninja
-Weather App - JavaScript Ninja Udemy Course
+# Weather App Ninja
+Weather App - *JavaScript Ninja Udemy Course*
